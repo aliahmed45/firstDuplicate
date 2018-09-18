@@ -1,0 +1,2 @@
+# firstDuplicate
+find the firstDuplicate
